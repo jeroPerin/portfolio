@@ -1,0 +1,37 @@
+
+body{
+    background-color: #D4A373;
+    font-family: sans-serif;
+}
+
+.container{
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.allHeader{
+background-color: #FAEDCD;
+display: flex;
+justify-content: space-around;
+align-items: center;
+
+}
+
+.listaNav {   
+gap: 100px;
+list-style: none;
+
+}
+.itemNav a{
+
+text-decoration: none;
+color: white;
+background-color: #7f4f24;
+border-radius: 5px;
+ padding: 10px 20px;
+ font-size: 25px;
+ 
+
+}
